@@ -2,7 +2,7 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
-const site = 'https://aminhoq.github.io';
+const site = 'https://aminul007bd.github.io';
 const base = process.env.BASE_PATH ?? '/app-docs';
 
 export default defineConfig({

@@ -174,6 +174,12 @@ Replace:
 - `YOUR_GITHUB_USERNAME` with your GitHub username or organization name
 - `YOUR_REPOSITORY_NAME` with this repository name
 
+For this repository, the published URL would be:
+
+```text
+https://aminul007bd.github.io/app-docs/
+```
+
 If you use a custom domain, the `site` and `base` values may differ.
 
 ## Step 6: Add package scripts

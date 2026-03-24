@@ -53,7 +53,7 @@ yarn preview
 This project is configured for a GitHub Pages project site hosted at:
 
 ```text
-https://aminhoq.github.io/app-docs/
+https://aminul007bd.github.io/app-docs/
 ```
 
 Astro uses the repository base path from `BASE_PATH` in CI and falls back to `/app-docs` locally.
